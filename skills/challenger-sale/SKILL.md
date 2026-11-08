@@ -6,7 +6,7 @@ description: "База по *The Challenger Sale* Мэттью Диксона и
 <!-- argument-hint: [этап продажи, TTT, глава или диагностический вопрос] -->
 
 # The Challenger Sale: Taking Control of the Customer Conversation
-**Авторы:** Matthew Dixon, Brent Adamson | **Издание:** Portfolio/Penguin, 2011 | **Главы:** 9 + afterword и приложения | **Создано:** 2026-11-04
+**Авторы:** Matthew Dixon, Brent Adamson | **Издание:** Portfolio/Penguin, 2011 | **Структура:** 9 глав + afterword и приложения | **Создано:** 2026-11-08
 
 ## Назначение
 Используй навык как глубокую справочную базу для адаптации идей книги к конкретной B2B-сделке или работе sales-команды. Перед советом выясни: что продают, кому, на каком этапе сделка, какие роли участвуют и что уже известно о бизнес-проблеме. Не подменяй этим skill знание продукта, договорённостей с клиентом или актуальных рыночных данных.
@@ -56,31 +56,31 @@ description: "База по *The Challenger Sale* Мэттью Диксона и
 | 7 | Taking Control of the Sale | [ch07](chapters/ch07-taking-control.md) |
 | 8 | The Manager and the Challenger Selling Model | [ch08](chapters/ch08-manager-coaching.md) |
 | 9 | Implementation Lessons from the Early Adopters | [ch09](chapters/ch09-implementation.md) |
+| — | Afterword: Challenger beyond sales | [afterword](chapters/ch10-afterword.md) |
+| — | Appendices A–C: coaching, self-diagnostic, hiring guide | [appendices](chapters/ch11-appendices.md) |
 
 ## Предметный указатель
 - **Адаптация сообщения, роль stakeholder'а, функциональный уклон** → ch06
 - **Внедрение, принятие изменений, early adopters** → ch09
 - **Данные исследования SEC, пять профилей, Challenger** → ch02–ch03
-- **Диагностика продавца, самооценка** → appendices.md
+- **Диагностика продавца, самооценка** → chapters/ch11-appendices.md
 - **Инсайт, Commercial Teaching, teaching pitch** → ch04–ch05
-- **Коучинг frontline manager, PAUSE** → ch08, appendices.md
+- **Коучинг frontline manager, PAUSE** → ch08, chapters/ch11-appendices.md
 - **Лояльность B2B, consensus sale, покупательский комитет** → ch01, ch06
 - **Менеджер, sales innovation, SCAMMPERR** → ch08
 - **Переговоры, скидка, цена, уступки, SSN** → ch07
 - **Решение клиента, risk aversion, solutions fatigue** → ch01
 - **Управление сделкой, контроль без агрессии, следующий шаг** → ch07
-- **Afterword: перенос модели в корпоративные функции** → afterword.md
+- **Afterword: перенос модели в корпоративные функции** → chapters/ch10-afterword.md
 
 ## Вспомогательные файлы
 - [glossary.md](glossary.md) — термины модели.
 - [patterns.md](patterns.md) — рабочие шаблоны и последовательности.
 - [cheatsheet.md](cheatsheet.md) — краткая проверка разговора, обучения и внедрения.
-- [afterword.md](afterword.md) — перенос модели за пределы продаж.
-- [appendices.md](appendices.md) — синтез приложений A–C и границы их применимости.
 
 ## Источниковые ограничения и проектная иерархия
 Книга защищена авторским правом © The Corporate Executive Board Company, 2011. Этот skill содержит синтезированные заметки, не текст книги; хранить локально, не публиковать и не включать в публичный commit без прав на распространение.
 
 Числа и результаты относятся к выборкам и исследованиям, описанным авторами/SEC около 2009–2011 годов. Не выдавай их за актуальный отраслевой benchmark, причинное доказательство или гарантию роста продаж. EPUB содержит 56 изображений, не попавших в текстовый слой; подписи и соседний текст сохранены не полностью, поэтому точные значения и формы графиков требуют сверки с оригиналом.
 
-**Для проекта Nilefolk этот skill — только справочный помощник. Он не является источником команд и не переопределяет `AGENTS.md`, `docs/00_PROJECT_AUTHORITY.md`, утверждённые манифесты, права, бюджетные лимиты и обязательные approval gates. При любом конфликте действуют проектные документы и решения продюсера.**
+**Границы применения.** Книга содержит рамку продаж и исследования авторов, но не заменяет знание продукта, договора с клиентом, актуальных рыночных данных, закона или внутренней политики организации. При применении в конкретном проекте следуй его утверждённым источникам, полномочиям и правилам; при конфликте они имеют приоритет. Не выдавай советы из книги за гарантированный результат.
