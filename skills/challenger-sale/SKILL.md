@@ -6,7 +6,7 @@ description: "База по *The Challenger Sale* Мэттью Диксона и
 <!-- argument-hint: [этап продажи, TTT, глава или диагностический вопрос] -->
 
 # The Challenger Sale: Taking Control of the Customer Conversation
-**Авторы:** Matthew Dixon, Brent Adamson | **Издание:** Portfolio/Penguin, 2011 | **Структура:** 9 глав + afterword и приложения | **Создано:** 2026-11-08
+**Авторы:** Matthew Dixon, Brent Adamson | **Издание:** Portfolio/Penguin, 2011 | **Структура:** foreword + introduction, 9 глав, afterword и приложения | **Создано:** 2026-11-08
 
 ## Назначение
 Используй навык как глубокую справочную базу для адаптации идей книги к конкретной B2B-сделке или работе sales-команды. Перед советом выясни: что продают, кому, на каком этапе сделка, какие роли участвуют и что уже известно о бизнес-проблеме. Не подменяй этим skill знание продукта, договорённостей с клиентом или актуальных рыночных данных.
@@ -45,8 +45,9 @@ description: "База по *The Challenger Sale* Мэттью Диксона и
 - **Нужно оценить продавца или кандидата:** приложение B/C; воспринимай материалы как подсказки книги, не как валидированный тест или готовый HR-стандарт.
 
 ## Оглавление
-| # | Глава | Файл |
+| # | Раздел | Файл |
 |---|---|---|
+| — | Foreword & Introduction | [frontmatter](chapters/ch00-foreword-introduction.md) |
 | 1 | The Evolving Journey of Solution Selling | [ch01](chapters/ch01-solution-selling.md) |
 | 2 | The Challenger (Part 1): A New Model for High Performance | [ch02](chapters/ch02-challenger-profile.md) |
 | 3 | The Challenger (Part 2): Exporting the Model to the Core | [ch03](chapters/ch03-exporting-the-model.md) |
@@ -62,7 +63,7 @@ description: "База по *The Challenger Sale* Мэттью Диксона и
 ## Предметный указатель
 - **Адаптация сообщения, роль stakeholder'а, функциональный уклон** → ch06
 - **Внедрение, принятие изменений, early adopters** → ch09
-- **Данные исследования SEC, пять профилей, Challenger** → ch02–ch03
+- **Данные исследования SEC, пять профилей, Challenger** → ch00, ch02–ch03
 - **Диагностика продавца, самооценка** → chapters/ch11-appendices.md
 - **Инсайт, Commercial Teaching, teaching pitch** → ch04–ch05
 - **Коучинг frontline manager, PAUSE** → ch08, chapters/ch11-appendices.md

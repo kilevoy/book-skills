@@ -1,28 +1,27 @@
 # Chapter 5 — Teaching for Differentiation (Part 2): How to Build Insight-Led Conversations
 
 ## Core idea
-A strong teaching pitch is a customer-centered story that moves from context to a new insight, shows its consequences, and only then introduces the supplier’s solution. The sequence is a planning scaffold, not a script to recite mechanically.
+A **Commercial Teaching pitch** is a customer-centered story: it starts with the customer’s business, introduces a new perspective, makes its consequences meaningful, and only then connects the problem to the supplier’s solution. The six stages—**Warmer → Reframe → Rational Drowning → Emotional Impact → A New Way → Your Solution**—are an intentional sequence for designing and delivering the conversation, not a script to recite mechanically.
 
-## Six-part Commercial Teaching pitch
-1. **Warmer:** establish context using patterns from similar customers; ask what fits and what is different. Prepare a hypothesis rather than beginning with an unbounded discovery interview.
-2. **Reframe:** present the key insight that changes how the customer sees a familiar problem or opportunity.
-3. **Rational Drowning:** quantify the scale and business impact with credible data. The goal is to show the cost of the current state or missed opportunity, not merely generic ROI for the product.
-4. **Emotional Impact:** make the issue concrete through a recognizable story about people, workflows, and consequences.
-5. **A New Way:** explain the capabilities, processes, or behavior needed to address the problem—still focusing on the customer’s approach, not yet the vendor’s feature list.
-6. **Your Solution:** show how the supplier’s distinctive capabilities help implement the new way.
+## The six-stage pitch
+1. **Warmer:** after setting expectations, offer a hypothesis about the challenges of similar customers, based on research, experience, or benchmarks. Ask what matches and what is different. This is **Hypothesis-Based Selling**: prepare a relevant starting point rather than making the customer explain everything from zero. It establishes credibility and relevance but does not yet teach a new idea.
+2. **Reframe:** state the insight that changes how the customer sees a familiar problem—perhaps a hidden cause, broader risk, or unrecognized opportunity. Present it succinctly, like a headline, to create curiosity. The desired signal is not only “yes, we have that problem,” but recognition that the customer has not considered the issue in this way.
+3. **Rational Drowning:** use credible data, examples, and transparent calculations to show the scale of the missed opportunity or cost of inaction. Do not flood the buyer with numbers. An ROI estimate should calculate the potential value of addressing the revealed problem, not merely the return on the supplier’s product.
+4. **Emotional Impact:** make the issue recognizable through a plausible story about people and work inside an organization like the customer’s. More charts do not answer “we are different”; a relevant story should help the buyer see how the problem could exist in their own operation.
+5. **A New Way:** describe the processes, behaviors, or capabilities needed to address the issue. The customer should accept the logic of acting differently before hearing the vendor’s feature list.
+6. **Your Solution:** explain how the supplier’s specific, defensible capabilities help the customer implement the new way better than alternatives.
 
-The authors recommend designing backward: identify a defensible supplier strength, determine the insight that makes it relevant, establish the cost of inaction, then build a logical and emotional narrative leading to the solution. The SAFE–BOLD framework is presented as a way to test whether an idea is substantial, differentiated, and feasible; it should not be treated as a validated universal scoring instrument.
+Authors contrast **lead with** (start with the vendor’s differentiators) and **lead to** (first make the customer understand why change matters, then arrive at the differentiators). They advise designing backward: start with a strength the company can prove, find the insight that makes it relevant, establish the consequences, and build the logical and emotional path toward it. Review early slides or pages: if they mainly describe the supplier, the pitch may be starting too soon with the product.
 
-## Examples in the book
-- **Grainger:** reframe maintenance, repair, and operations purchases around planned versus unplanned buying. The example connects urgent purchasing to hidden labor, processing, and inventory costs, then links the insight to Grainger’s capabilities. The percentages are specific to the example and must not be generalized to every MRO buyer.
-- **ADP Dealer Services:** challenge assumptions about fragmented IT systems by highlighting costs of duplication and poor integration. The case illustrates leading with the business problem before showing the vendor’s offering.
+## Examples
+- **W. W. Grainger:** shift the discussion of maintenance, repair, and operations (MRO) from the item being purchased to whether the purchase is planned or unplanned. The case describes hidden labor, processing, and inventory costs behind urgent purchases: a broken air-conditioning part can trigger calls to suppliers, trips by employees, and stockpiling of extra parts that may never be used. Grainger’s capability to provide what is needed when and where required appears as the answer only after the customer sees the wider problem. The case reports that unplanned purchases represented 40% of typical MRO spending and involved five to ten employees; those are example-specific claims from the book/company, not benchmarks for every buyer.
+- **ADP Dealer Services:** Profit Clinics taught auto dealers about costs of fragmented IT systems before presenting an integrated offering. The chapter cites an average of 12 IT vendors and possible cost duplication up to 40%; it also reports that when new-car sales in the U.S. dropped 40%, ADP Dealer Services revenue fell 4%. These are the case’s reported data, not current benchmarks or proof that the pitch alone caused the result.
 
-## Quality checks
-- The insight is new to the target customer and supported by evidence.
-- The financial or operational consequence is calculated transparently.
-- The story reflects the customer’s work, not only a product use case.
-- The proposed “new way” is plausible, and the supplier can enable it.
-- The final solution follows from the customer’s problem; it is not a forced product plug.
+## Build an insight-generation capability
+Commercial Teaching depends on more than an individual’s presentation skills. Marketing and central teams can research recurring needs, build and maintain messages, and give sellers relevant evidence. Sellers then adapt and test the material in customer conversations; feedback helps refresh it as markets change. Training should include an underlying story and practice in how to deliver it, rather than a static slide deck.
 
-## Limits
-Examples from the book are case illustrations, not proof that the same pitch will work in another industry. Verify market figures, customer examples, and current product capabilities. A provocative reframe should be respectful and fact-based, never manufactured to create fear.
+The chapter presents **SAFE–BOLD**—attributed to Neil Rackham and KPMG—as a prompt to test whether an idea is **big**, **innovative**, **risky**, and **difficult**. If internal approval processes have made a message small, familiar, safe, and easy, it may no longer differentiate. The framework is a design aid, not a universally validated scoring scale or an instruction to take reckless risks.
+
+## Quality checks and limits
+The insight should be new to the target customer, supported by evidence, consequential to the business, and connected to a solution the supplier can actually deliver. The story must reflect plausible customer work, the new way must be feasible, and the product connection should follow naturally. Adapt the order to a real conversation without discarding the logic. Case data may be dated or specific to the example; verify current numbers and product claims. Provocation without credibility or a real solution undermines trust rather than creating useful tension.
+
